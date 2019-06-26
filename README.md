@@ -1,1 +1,1 @@
-# hacktiv8
+![alt text](https://github.com/senjansen/w1.exercise-1/blob/master/exercise-1.png "Exercise 1")
